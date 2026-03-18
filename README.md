@@ -1,9 +1,9 @@
 
 <p align="center">
-<img src="./logo.png" width="300"/>
+<img src="./logo.png" width="700"/>
 </p>
 
-# Complete Atom-to-Atom Mapped (cAAMs) Genome-scale metabolic models (GEMs) of the Simplified Human Intestinal Microbiota (SIHUMIx)
+## Complete Atom-to-Atom Mapped (cAAMs) Genome-scale metabolic models (GEMs) of the Simplified Human Intestinal Microbiota (SIHUMIx)
 
 ## License
 
