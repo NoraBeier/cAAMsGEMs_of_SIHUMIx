@@ -9,8 +9,6 @@ This repository provides genome-scale metabolic models of the Simplified Human I
 
 These models enable detailed tracing of atomic transitions through biochemical reactions, supporting advanced analyses such as metabolic flux tracing, isotope labeling studies, and mechanistic investigations of microbial metabolism.
 
----
-
 ## Included Organisms
 
 The dataset includes the following organisms:
@@ -24,13 +22,10 @@ The dataset includes the following organisms:
 * *Escherichia coli* K-12
 * *Lactobacillus plantarum*
 
----
-
 ## Model Quality
 
 All models achieve a MEMOTE score of **89%**, indicating high-quality, well-curated, and consistent metabolic reconstructions.
 
----
 
 ## License
 
