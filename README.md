@@ -1,3 +1,9 @@
+<p align="center">
+
+<img src="./logo.png" width="700"/>
+
+</p>
+
 # Complete Atom-to-Atom Mapped Genome-scale Metabolic Models of the Simplified Human Intestinal Microbiota
 
 This repository provides genome-scale metabolic models of the **Simplified Human Intestinal Microbiota (SIHUMIx)** together with comprehensive atom-to-atom mapping (AAM) information.
