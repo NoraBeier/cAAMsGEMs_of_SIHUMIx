@@ -30,7 +30,7 @@ The `data` directory contains three different datasets, each serving a distinct 
 ```text
 data/
 ├── SIHUMIx_GEMs/
-├── cAAMsGEMs/
+├── SIHUMIx_cAAMsGEMs/
 └── Pathways/
 ```
 
@@ -40,13 +40,13 @@ The `SIHUMIx_GEMs` directory contains the **originally generated genome-scale me
 
 These models represent the original metabolic reconstructions and provide the baseline model data, including metabolites, reactions, stoichiometry, compartments, and model constraints.
 
-### `cAAMsGEMs`
+### `SIHUMIx_cAAMsGEMs`
 
-The `cAAMsGEMs` directory contains **curated, atom-to-atom mapped genome-scale metabolic models**.
+The `SIHUMIx_cAAMsGEMs` directory contains **curated, atom-to-atom mapped genome-scale metabolic models**.
 
 These models extend the original GEMs with comprehensive molecular structure information and atom-to-atom mappings across the metabolic network.
 
-In particular, the `cAAMsGEMs` dataset provides:
+In particular, the `SIHUMIx_cAAMsGEMs` dataset provides:
 
 * curated molecular structures for metabolites
 * standardized structural information
@@ -55,15 +55,13 @@ In particular, the `cAAMsGEMs` dataset provides:
 * information describing the provenance and curation of structures and mappings
 * identification of potential structural and mapping problems
 
-The `cAAMsGEMs` therefore provide the main dataset for analyses that require **complete structural information and atom-level tracing through the metabolic network**.
+The `SIHUMIx_cAAMsGEMs` therefore provide the main dataset for analyses that require **complete structural information and atom-level tracing through the metabolic network**.
 
 ### `Pathways`
 
 The `Pathways` directory contains **atom-to-atom mappings for many different metabolic pathways**.
 
-This dataset is currently **under development**.
-
-Unlike the organism-specific genome-scale models in `cAAMsGEMs`, the `Pathways` dataset focuses on providing AAM information at the **pathway level**. It is intended to make atom-to-atom mappings available for a broad collection of metabolic pathways and reactions, including pathways that are not necessarily restricted to the SIHUMIx genome-scale models.
+Unlike the organism-specific genome-scale models in SIHUMIx_cAAMsGEMs, the Pathways dataset focuses on providing AAM information at the pathway level. The pathways and reactions are derived from the Escherichia coli K-12 MG1655 genome-scale model, while the annotation linking individual reactions to their respective metabolic pathways is based on pathway information from EcoCyc.
 
 The pathway dataset is therefore intended as a complementary resource for **pathway-level atom tracing and mechanistic metabolic analyses**.
 

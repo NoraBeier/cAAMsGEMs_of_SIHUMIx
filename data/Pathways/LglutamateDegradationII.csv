@@ -1,0 +1,5 @@
+Reaction_index,Substrate,Product,Bigg_IDs,AAMs
+ASPAMINOTRANS-RXN,"L-ASPARTATE,2-KETOGLUTARATE","OXALACETIC_ACID,GLT",ASPATh;ASPTA;ASPTAm;ASPTAp,[CH2:10]([CH2:11][C:13](=[O:16])[OH:17])[C:12]([C:14](=[O:18])[OH:19])=[O:15].[CH2:1]([CH:2]([C:4](=[O:8])[OH:9])[NH2:5])[C:3](=[O:6])[OH:7]>>[C:1]([CH2:2][C:4](=[O:8])[OH:9])([C:3](=[O:6])[OH:7])=[O:15].[NH2:5][C@H:12]([CH2:10][CH2:11][C:13](=[O:16])[OH:17])[C:14](=[O:18])[OH:19]
+ASPARTASE-RXN,L-ASPARTATE,"AMMONIUM,FUM",ASPT,[O:1]=[C:2]([OH:3])[CH2:4][CH:5]([C:6](=[O:7])[OH:8])[NH2:9]>>[O:1]=[C:2]([OH:3])/[CH:4]=[CH:5]/[C:6](=[O:7])[OH:8].[NH4:9]
+ASPAMINOTRANS-RXN,"OXALACETIC_ACID,GLT","L-ASPARTATE,2-KETOGLUTARATE",ASPATh;ASPTA;ASPTAm;ASPTAp,[CH2:10]([CH2:11][C:13](=[O:16])[OH:17])[C:12]([C:14](=[O:18])[OH:19])=[O:15].[CH2:1]([CH:2]([C:4](=[O:8])[OH:9])[NH2:5])[C:3](=[O:6])[OH:7]>>[C:1]([CH2:2][C:4](=[O:8])[OH:9])([C:3](=[O:6])[OH:7])=[O:15].[NH2:5][C@H:12]([CH2:10][CH2:11][C:13](=[O:16])[OH:17])[C:14](=[O:18])[OH:19]
+ASPARTASE-RXN,"AMMONIUM,FUM",L-ASPARTATE,ASPT,[O:1]=[C:2]([OH:3])[CH2:4][CH:5]([C:6](=[O:7])[OH:8])[NH2:9]>>[O:1]=[C:2]([OH:3])/[CH:4]=[CH:5]/[C:6](=[O:7])[OH:8].[NH4:9]

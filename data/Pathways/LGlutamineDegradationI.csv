@@ -1,0 +1,2 @@
+Reaction_index,Substrate,Product,Bigg_IDs,AAMs
+GLUTAMIN-RXN,"GLN,WATER","GLT,AMMONIA,PROTON",GAM;GLUN;GLUNm;GLUNpp,[O:1]=[C:2]([OH:3])[C@@H:4]([NH2:5])[CH2:6][CH2:7][C:8](=[O:9])[NH2:11].[OH2:10]>>[O:1]=[C:2]([OH:3])[C@@H:4]([NH2:5])[CH2:6][CH2:7][C:8](=[O:9])[OH:10].[NH4:11]

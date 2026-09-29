@@ -1,0 +1,2 @@
+Reaction_index,Substrate,Product,Bigg_IDs,AAMs
+LYSDECARBOX-RXN,"PROTON,LYS","CARBON-DIOXIDE,CADAVERINE",LYSDC,[H+:11].[O:1]=[C:2]([OH:3])[C@@H:4]([NH2:5])[CH2:6][CH2:7][CH2:8][CH2:9][NH2:10]>>[CH2:4]([NH2:5])[CH2:6][CH2:7][CH2:8][CH2:9][NH2:10].[O:1]=[C:2]=[O:3]

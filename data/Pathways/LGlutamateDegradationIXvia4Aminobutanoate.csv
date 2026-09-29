@@ -1,0 +1,2 @@
+Reaction_index,Substrate,Product,Bigg_IDs,AAMs
+GLUTDECARBOX-RXN,"PROTON,GLT","CARBON-DIOXIDE,4-AMINO-BUTYRATE",ARGDh;GLUDC,[O:1]=[C:2]([OH:3])[CH2:4][CH2:5][C@H:6]([NH2:7])[C:11](=[O:12])[OH:13].[H+:8]>>[O:1]=[C:2]([OH:3])[CH2:4][CH2:5][CH2:6][NH2:7].[O:12]=[C:11]=[O:13]

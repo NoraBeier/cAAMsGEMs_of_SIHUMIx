@@ -1,0 +1,3 @@
+Reaction_index,Substrate,Product,Bigg_IDs,AAMs
+CYTDEAM-RXN,"PROTON,WATER,CYTOSINE","AMMONIUM,URACIL",CSND,[OH2:9].[cH:1]1[cH:2][nH:6][c:4](=[O:8])[n:7][c:3]1[NH2:5].[H+:10]>>[NH3:5].[cH:1]1[cH:2][nH:6][c:4](=[O:8])[n:7][c:3]1[OH:9]
+URACIL-PRIBOSYLTRANS-RXN,"PPI,UMP","PRPP,URACIL",UPPRT,[CH2:3]([C@@H:4]1[C@@H:6]([OH:13])[C@@H:7]([OH:14])[C@@H:8]([O:23][P:29](=[O:22])([OH:24])[O:28][P:30](=[O:25])([OH:26])[OH:27])[O:20]1)[O:19][P:21](=[O:16])([OH:17])[OH:18].[cH:1]1[cH:2][nH:11][c:9](=[O:15])[n:10][c:5]1[OH:12]>>[O:22]=[P:29]([OH:23])([OH:24])[O:28][P:30](=[O:25])([OH:26])[OH:27].[cH:1]1[cH:2][n:11]([C@H:8]2[C@H:7]([OH:14])[C@H:6]([OH:13])[C@@H:4]([CH2:3][O:19][P:21](=[O:16])([OH:17])[OH:18])[O:20]2)[c:9](=[O:15])[nH:10][c:5]1=[O:12]

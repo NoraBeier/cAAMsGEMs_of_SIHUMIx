@@ -1,0 +1,2 @@
+Reaction_index,Substrate,Product,Bigg_IDs,AAMs
+ASPARAGHYD-RXN,"ASN,WATER","L-ASPARTATE,AMMONIUM",ASNN;ASNNe;ASNNm;ASNNpp;ASPSE,[O:1]=[C:2]([OH:3])[CH:4]([NH2:5])[CH2:6][C:7](=[O:8])[NH2:10].[OH2:9]>>[O:1]=[C:2]([OH:3])[CH:4]([NH2:5])[CH2:6][C:7](=[O:8])[OH:9].[NH4:10]

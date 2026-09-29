@@ -1,0 +1,2 @@
+Reaction_index,Substrate,Product,Bigg_IDs,AAMs
+VALINE-PYRUVATE-AMINOTRANSFER-RXN,"PYRUVATE,VAL","L-ALPHA-ALANINE,2-KETO-ISOVALERATE",VPAMTr,[O:1]=[C:2]([OH:3])[C:4](=[O:5])[CH:6]([CH3:7])[CH3:8].[O:9]=[C:10]([OH:11])[C@@H:12]([NH2:13])[CH3:14]>>[O:1]=[C:2]([OH:3])[C@H:4]([CH:6]([CH3:7])[CH3:8])[NH2:13].[O:5]=[C:12]([C:10](=[O:9])[OH:11])[CH3:14]
