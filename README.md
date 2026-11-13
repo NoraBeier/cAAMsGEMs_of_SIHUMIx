@@ -88,4 +88,4 @@ This dataset is licensed under the Creative Commons Attribution 4.0 Internationa
 
 Please cite as:
 
-> Beier et al. (2026). *Atom-to-Atom Mapped Genome-Scale Models for a Small Gut Microbiome Consortium.*
+> Beier et al. (2026). *Atom-to-Atom Mapped Genome-Scale Models for a Small Gut Microbiome Consortium.* https://dx.doi.org/10.21203/rs.3.rs-11293845/v1.
